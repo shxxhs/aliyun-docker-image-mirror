@@ -1,4 +1,3 @@
-jenkins/jenkins
 nginx
 mysql:8.0.37
 redis:6.2.14
