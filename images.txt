@@ -1,3 +1,4 @@
+bitnami/kafka
 secfa/awvs
 jenkins/jenkins
 nginx
